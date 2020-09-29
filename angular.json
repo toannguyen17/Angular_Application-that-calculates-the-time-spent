@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Application-that-calculates-the-time-spent"
+    }
+  },
+  "defaultProject": "Application-that-calculates-the-time-spent",
+  "cli": {
+    "analytics": false
+  }
 }
